@@ -1,0 +1,42 @@
+#objectButtonsWrapper {
+  background-color: rgb(93, 88, 88);
+  width: 100px;
+  padding: 5px;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#objectsTitle {
+  color: rgb(231, 228, 228);
+  font-size: 17px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+#objectButtons {
+  text-align: center;
+}
+.bttn {
+  border-radius: 10px;
+  padding: 5px;
+  margin-top: 5px;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 29.5px;
+}
+.btn6 {
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgb(231, 228, 228);
+}
+.inp2 {
+  padding: 15px;
+  border-radius: 10px;
+}
+.image_main {
+  width: 100px;
+  height: 100px;
+}
